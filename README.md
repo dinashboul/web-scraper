@@ -1,10 +1,11 @@
-# Project: Web scraber
+# Project: Web scraper
 
 ## Author : Dina Alshboul
 
 ### .env requirements (where applicable)
 
 - pip freeze > requirements.txt
+
 
 ### How to initialize/run your application (where applicable)
 
@@ -14,6 +15,6 @@
 
 - No tests
 
-### PR :
+### PR:
 
 
