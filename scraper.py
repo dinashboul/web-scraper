@@ -1,7 +1,5 @@
-import os
 import requests
 from bs4 import BeautifulSoup
-import json
 URL='https://en.wikipedia.org/wiki/History_of_Mexico'
 
 page = requests.get(URL)
